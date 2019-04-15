@@ -1754,13 +1754,13 @@ input, select, textarea {
 			width: 100%;
 		}
 
-		.image.avatar48 {
+		.image.gradpic {
 			width: 48px;
 			height: 48px;
 			background: #f00;
 		}
 
-			.image.avatar48 img {
+			.image.gradpic img {
 				width: 48px;
 				height: 48px;
 			}
